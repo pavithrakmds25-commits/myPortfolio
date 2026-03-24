@@ -28,13 +28,13 @@ Higher Secondary (Class XII)
 GHSS Kuttippuram (2020 – 2022)
 
 Skills:
-Python
-HTML & CSS
-Data Analysis
-Machine Learning
-Git & GitHub
-Excel
-Canva
+Python,
+HTML & CSS,
+Data Analysis,
+Machine Learning,
+Git & GitHub,
+Excel,
+Canva,
 
 Features :
 Clean and minimal UI

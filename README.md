@@ -3,14 +3,12 @@ Pavithra K M — Portfolio Website
 This is a personal portfolio website built using HTML, CSS, JavaScript. It showcases my academic background, skills, and contact information in a simple and structured format.
 
 About the Project:
-
-This portfolio is designed as a minimal and user-friendly website with tab-based navigation. It highlights:
-
+This portfolio is designed as a minimal and user-friendly website with tab-based navigation. 
+It highlights:
 Personal introduction
 Educational background
 Technical skills
 Contact details
-
 The goal of this project is to present my profile as a Data Science student and demonstrate basic web development skills.
 
 About Me :
